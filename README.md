@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img width="300" height="170" src="https://assets.objkt.media/file/assets-003/QmRBjELNY6MeGsevJR9FBNRWRqQ928rRAUWnzF8VvCzc7U/artifact" />
+      <img width="300" height="170" src="https://media.tenor.com/m-MS3l7pLAUAAAAC/typescript-script.gif" />
     </td>
     <td>
       <img width="300" height="170" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" />
@@ -9,10 +9,10 @@
   </tr>
   <tr>
     <td>
-      <img width="300" height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NnYTVsdnNmaDdiY3RwYjBrOXhxNWc1eGxrZjE0MnpkamIwb2pqMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dDwicM3uFUqfC/giphy.gif" />
+      <img width="300" height="170" src="https://media.tenor.com/1GVDAD256kEAAAAC/blue-screen-of-death-windows-10-bsod.gif" />
     </td>
     <td>
-      <img width="300" height="170" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aW9xZTR3OHM2b25xZmJqaGJ3NDl1Nmx0aGQ0eTg3M2ZucmJqZXhsMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/94P1LEMyuVEeA/giphy.gif" />
+      <img width="300" height="170" src="https://media.tenor.com/SIh48FivWyEAAAAd/1mposter-imposter.gif" />
     </td>
   </tr>
 </table>
