@@ -4,7 +4,7 @@
       <img width="300" height="170" src="https://assets.objkt.media/file/assets-003/QmRBjELNY6MeGsevJR9FBNRWRqQ928rRAUWnzF8VvCzc7U/artifact" />
     </td>
     <td>
-      <img width="300" height="170" src="https://tenor.com/view/linux-unix-apple-windows-android-gif-11555165207891882183" />
+      <img width="300" height="170" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" />
     </td>
   </tr>
   <tr>
