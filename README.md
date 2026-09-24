@@ -16,3 +16,11 @@
     </td>
   </tr>
 </table>
+
+### Open Source Contributions
+
+| Proyecto | Stack |
+| :--- | :---: |
+| **[React Bits](https://github.com/DavidHDev/react-bits)** | ⚛️ React |
+| **[porfolio.dev](https://github.com/midudev/porfolio.dev)** | 🚀 Astro |
+| **[100cosas.dev](https://github.com/midudev/100cosas.dev)** | 🌐 JS |
