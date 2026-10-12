@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>
-      <img width="300" height="170" src="https://media.tenor.com/1GVDAD256kEAAAAC/blue-screen-of-death-windows-10-bsod.gif" />
+      <img width="300" height="170" alt="giphy" src="https://github.com/user-attachments/assets/6eaad3e8-c1da-4b4c-8158-70856ad550a8" />
     </td>
     <td>
       <img width="300" height="170" src="https://media.tenor.com/SIh48FivWyEAAAAd/1mposter-imposter.gif" />
